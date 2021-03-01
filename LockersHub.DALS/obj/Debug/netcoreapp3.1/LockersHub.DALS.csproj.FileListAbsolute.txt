@@ -1,0 +1,12 @@
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.DALS\bin\Debug\netcoreapp3.1\LockersHub.DALS.deps.json
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.DALS\bin\Debug\netcoreapp3.1\LockersHub.DALS.runtimeconfig.json
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.DALS\bin\Debug\netcoreapp3.1\LockersHub.DALS.runtimeconfig.dev.json
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.DALS\bin\Debug\netcoreapp3.1\LockersHub.DALS.dll
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.DALS\bin\Debug\netcoreapp3.1\LockersHub.DALS.pdb
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.DALS\obj\Debug\netcoreapp3.1\LockersHub.DALS.csprojAssemblyReference.cache
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.DALS\obj\Debug\netcoreapp3.1\LockersHub.DALS.AssemblyInfoInputs.cache
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.DALS\obj\Debug\netcoreapp3.1\LockersHub.DALS.AssemblyInfo.cs
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.DALS\obj\Debug\netcoreapp3.1\LockersHub.DALS.csproj.CoreCompileInputs.cache
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.DALS\obj\Debug\netcoreapp3.1\LockersHub.DALS.dll
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.DALS\obj\Debug\netcoreapp3.1\LockersHub.DALS.pdb
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.DALS\obj\Debug\netcoreapp3.1\LockersHub.DALS.genruntimeconfig.cache

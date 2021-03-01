@@ -1,0 +1,12 @@
+C:\Projects\2021\FirstDigitCare2\FirstDigitCare.DALS\bin\Debug\netcoreapp3.1\FirstDigitCare.DALS.deps.json
+C:\Projects\2021\FirstDigitCare2\FirstDigitCare.DALS\bin\Debug\netcoreapp3.1\FirstDigitCare.DALS.runtimeconfig.json
+C:\Projects\2021\FirstDigitCare2\FirstDigitCare.DALS\bin\Debug\netcoreapp3.1\FirstDigitCare.DALS.runtimeconfig.dev.json
+C:\Projects\2021\FirstDigitCare2\FirstDigitCare.DALS\bin\Debug\netcoreapp3.1\FirstDigitCare.DALS.dll
+C:\Projects\2021\FirstDigitCare2\FirstDigitCare.DALS\bin\Debug\netcoreapp3.1\FirstDigitCare.DALS.pdb
+C:\Projects\2021\FirstDigitCare2\FirstDigitCare.DALS\obj\Debug\netcoreapp3.1\FirstDigitCare.DALS.csprojAssemblyReference.cache
+C:\Projects\2021\FirstDigitCare2\FirstDigitCare.DALS\obj\Debug\netcoreapp3.1\FirstDigitCare.DALS.AssemblyInfoInputs.cache
+C:\Projects\2021\FirstDigitCare2\FirstDigitCare.DALS\obj\Debug\netcoreapp3.1\FirstDigitCare.DALS.AssemblyInfo.cs
+C:\Projects\2021\FirstDigitCare2\FirstDigitCare.DALS\obj\Debug\netcoreapp3.1\FirstDigitCare.DALS.csproj.CoreCompileInputs.cache
+C:\Projects\2021\FirstDigitCare2\FirstDigitCare.DALS\obj\Debug\netcoreapp3.1\FirstDigitCare.DALS.dll
+C:\Projects\2021\FirstDigitCare2\FirstDigitCare.DALS\obj\Debug\netcoreapp3.1\FirstDigitCare.DALS.pdb
+C:\Projects\2021\FirstDigitCare2\FirstDigitCare.DALS\obj\Debug\netcoreapp3.1\FirstDigitCare.DALS.genruntimeconfig.cache

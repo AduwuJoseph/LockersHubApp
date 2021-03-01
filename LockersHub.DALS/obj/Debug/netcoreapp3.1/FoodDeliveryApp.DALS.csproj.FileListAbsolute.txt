@@ -1,0 +1,12 @@
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Debug\netcoreapp3.1\FoodDeliveryApp.DALS.AssemblyInfoInputs.cache
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Debug\netcoreapp3.1\FoodDeliveryApp.DALS.AssemblyInfo.cs
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Debug\netcoreapp3.1\FoodDeliveryApp.DALS.csproj.CoreCompileInputs.cache
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\bin\Debug\netcoreapp3.1\FoodDeliveryApp.DALS.deps.json
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\bin\Debug\netcoreapp3.1\FoodDeliveryApp.DALS.runtimeconfig.json
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\bin\Debug\netcoreapp3.1\FoodDeliveryApp.DALS.runtimeconfig.dev.json
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\bin\Debug\netcoreapp3.1\FoodDeliveryApp.DALS.dll
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\bin\Debug\netcoreapp3.1\FoodDeliveryApp.DALS.pdb
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Debug\netcoreapp3.1\FoodDeliveryApp.DALS.dll
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Debug\netcoreapp3.1\FoodDeliveryApp.DALS.pdb
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Debug\netcoreapp3.1\FoodDeliveryApp.DALS.genruntimeconfig.cache
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Debug\netcoreapp3.1\FoodDeliveryApp.DALS.csprojAssemblyReference.cache

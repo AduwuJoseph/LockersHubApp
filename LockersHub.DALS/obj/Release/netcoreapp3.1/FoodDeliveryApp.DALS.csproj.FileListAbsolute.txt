@@ -1,0 +1,22 @@
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\bin\Release\netcoreapp3.1\FoodDeliveryApp.DALS.deps.json
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\bin\Release\netcoreapp3.1\FoodDeliveryApp.DALS.runtimeconfig.json
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\bin\Release\netcoreapp3.1\FoodDeliveryApp.DALS.runtimeconfig.dev.json
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\bin\Release\netcoreapp3.1\FoodDeliveryApp.DALS.dll
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\bin\Release\netcoreapp3.1\FoodDeliveryApp.DALS.pdb
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Release\netcoreapp3.1\FoodDeliveryApp.DALS.csprojAssemblyReference.cache
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Release\netcoreapp3.1\FoodDeliveryApp.DALS.AssemblyInfoInputs.cache
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Release\netcoreapp3.1\FoodDeliveryApp.DALS.AssemblyInfo.cs
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Release\netcoreapp3.1\FoodDeliveryApp.DALS.csproj.CoreCompileInputs.cache
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Release\netcoreapp3.1\FoodDeliveryApp.DALS.dll
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Release\netcoreapp3.1\FoodDeliveryApp.DALS.pdb
+C:\Joseph\TEF IDea\PROJECTS\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Release\netcoreapp3.1\FoodDeliveryApp.DALS.genruntimeconfig.cache
+C:\Project\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\bin\Release\netcoreapp3.1\FoodDeliveryApp.DALS.deps.json
+C:\Project\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\bin\Release\netcoreapp3.1\FoodDeliveryApp.DALS.runtimeconfig.json
+C:\Project\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\bin\Release\netcoreapp3.1\FoodDeliveryApp.DALS.runtimeconfig.dev.json
+C:\Project\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\bin\Release\netcoreapp3.1\FoodDeliveryApp.DALS.dll
+C:\Project\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\bin\Release\netcoreapp3.1\FoodDeliveryApp.DALS.pdb
+C:\Project\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Release\netcoreapp3.1\FoodDeliveryApp.DALS.csprojAssemblyReference.cache
+C:\Project\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Release\netcoreapp3.1\FoodDeliveryApp.DALS.AssemblyInfoInputs.cache
+C:\Project\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Release\netcoreapp3.1\FoodDeliveryApp.DALS.AssemblyInfo.cs
+C:\Project\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Release\netcoreapp3.1\FoodDeliveryApp.DALS.dll
+C:\Project\2021\FoodAppByteworksAPI\FoodDeliveryApp.DALS\obj\Release\netcoreapp3.1\FoodDeliveryApp.DALS.pdb

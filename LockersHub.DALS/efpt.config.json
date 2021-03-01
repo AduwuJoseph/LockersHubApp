@@ -1,0 +1,41 @@
+﻿{
+   "ContextClassName": "LockersDBContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "EntitiesNew",
+   "OutputPath": "EntitiesNew",
+   "ProjectRootNamespace": "FirstDigitCare.DALS",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Cities]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Countries]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Lockers]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[States]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseNodaTime": false,
+   "UseSpatial": false,
+   "UseStoredProcedures": false
+}
