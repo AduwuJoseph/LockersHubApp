@@ -23,6 +23,14 @@ namespace LockersHub.DALS.Entities
         public int? CityId { get; set; }
         [StringLength(15)]
         public string Status { get; set; }
+        [StringLength(450)]
+        public string CreatedBy { get; set; }
+        [StringLength(450)]
+        public string ModifiedBy { get; set; }
+        [Column(TypeName = "datetime")]
+        public DateTime? DateCreated { get; set; }
+        [Column(TypeName = "datetime")]
+        public DateTime? DateModified { get; set; }
 
         [ForeignKey(nameof(CityId))]
         [InverseProperty("Lockers")]
