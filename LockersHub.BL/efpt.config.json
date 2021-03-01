@@ -1,0 +1,339 @@
+﻿{
+   "ContextClassName": "FirstdigitcaredbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "DVM",
+   "OutputPath": "DVM",
+   "ProjectRootNamespace": "FirstDigitCare.BL",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[AspNetRoleClaims]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[AspNetRoles]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[AspNetUserClaims]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[AspNetUserLogins]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[AspNetUserRoles]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[AspNetUsers]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[AspNetUserTokens]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Banks]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[City]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Comments]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Consultation]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Country]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[DrugByDiseasesAndConditions]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[DrugClassification]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[EmployeeCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[EmployeeDesignation]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[EmployeeGradeAndRank]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[EmployeeNextOfKin]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Employees]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[EmployeeSpecialization]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Expenses]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Facilities]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[HCProviderInventory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[HCProviderInventoryBin]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[HealthCareProvider]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[HealthCareProviderAddress]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[HealthCareProviderCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[HealthCareServices]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[InvestigationParameters]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[InvResultParameters]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[LabProviders]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[LabServiceInvestigations]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[LabServices]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[LGA]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Manufacturer]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Message]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[MessageReply]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ParameterReference]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Patient]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PatientAccount]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PatientAddress]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PatientAppointment]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PatientBill]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PatientBillDetails]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PatientCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PatientCreditCard]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PatientDocuments]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PatientLabTest]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PatientLabTestDetails]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PatientNextOfKin]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PatientPayments]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PatientProviderPermission]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PatientReferrals]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PatientReferralType]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PatientWardRounds]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Payments]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PaymentTransactions]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[PrescriptionDetails]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Prescriptions]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ProductBatch]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ProductCostHistory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ProductReview]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Products]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ProductType]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ReferenceValues]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ReferralPayments]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Region]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Samples]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[SetupReferences]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[State]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[StockInventory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[StockInventoryBin]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[StoreLocations]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[sysdiagrams]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Testimonials]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[UserLogTracking]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Ward]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[WardAllocation]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[WardCategory]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}
