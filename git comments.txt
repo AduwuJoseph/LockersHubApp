@@ -1,0 +1,5 @@
+"---I created the Business Logic Logic (BL) where i will be writing my business logic. I added a Domain View Model that will act as a middle man between the database models and my view models (VM). The essence of this is to reduce the number of data being sent back to the view model every time we carry out a database call.---"
+
+"--I installed an automapper to map my models to domain models and vice versa. I created my Business Logic in the LockersHub.BL.BusinessLogic Folder--"
+
+"-----I created an automapper registry class where i registered the models that i want to auto mapped. Also, I created a dependency class where i extend the IserviceCollection and add the Business logic (BL) classes to the scope.----"

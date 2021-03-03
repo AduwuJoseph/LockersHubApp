@@ -10,10 +10,6 @@ namespace LockersHub.BL.DVM
     {
         [Key]
         public string Id { get; set; }
-        public int? ProviderId { get; set; }
-        public int? LabProviderId { get; set; }
-        [StringLength(450)]
-        public string PatientId { get; set; }
         [StringLength(256)]
         public string UserName { get; set; }
         [StringLength(256)]
@@ -40,9 +36,6 @@ namespace LockersHub.BL.DVM
         public int AccessFailedCount { get; set; }
 
         public bool RememberMe { get; set; } = false;
-
-        public virtual CustomerDVM Customer { get; set; }
-        public virtual ServiceProviderDVM Provider { get; set; }
 
         public List<string> Roles { get; set; }
     }

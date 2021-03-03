@@ -1,0 +1,12 @@
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.BL\obj\Debug\netcoreapp3.1\LockersHub.BL.csprojAssemblyReference.cache
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.BL\obj\Debug\netcoreapp3.1\LockersHub.BL.AssemblyInfoInputs.cache
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.BL\obj\Debug\netcoreapp3.1\LockersHub.BL.AssemblyInfo.cs
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.BL\obj\Debug\netcoreapp3.1\LockersHub.BL.csproj.CoreCompileInputs.cache
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.BL\bin\Debug\netcoreapp3.1\LockersHub.BL.deps.json
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.BL\bin\Debug\netcoreapp3.1\LockersHub.BL.dll
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.BL\bin\Debug\netcoreapp3.1\LockersHub.BL.pdb
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.BL\bin\Debug\netcoreapp3.1\LockersHub.DALS.dll
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.BL\bin\Debug\netcoreapp3.1\LockersHub.DALS.pdb
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.BL\obj\Debug\netcoreapp3.1\LockersHub.BL.csproj.CopyComplete
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.BL\obj\Debug\netcoreapp3.1\LockersHub.BL.dll
+C:\Joseph\TEF IDea\PROJECTS\2021\LockersHubOceangrSmithAssessment\LockersHub.BL\obj\Debug\netcoreapp3.1\LockersHub.BL.pdb
