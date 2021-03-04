@@ -260,7 +260,9 @@ namespace LockersHub.BL.BusinessLogic
 					c.DateModified = Locker.DateModified;
 					c.ModifiedBy = Locker.ModifiedBy;
 					c.DateModified = Locker.DateModified;
-					c.Status = Locker.Status; 
+					c.Status = Locker.Status;
+					c.Size = Locker.Size;
+					c.ImageUrl = Locker.ImageUrl;
 					try
 					{
 						await lockerRepository.UpdateAsync(c);

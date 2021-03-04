@@ -1,0 +1,33 @@
+﻿@model IEnumerable<LockerVM>
+@{
+    int sn = 1;
+}
+
+<div class="table-responsive">
+    <table id="datatable-buttons" class="display table table-striped table-hover">            
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <div class="table-responsive" id="table-data">
+                    <table id="datatable-buttons" class="display table table-striped table-hover">
+                        <tbody>
+                            <tr>
+                                <td class="text-center text-capitalize">1</td>
+                                <td class="text-center">@sn</td>
+                                <td class="text-center">@item.Name</td>
+                                <td class="text-center">Size</td>
+                                <td class="text-center">2 Available</td>
+                                <td class="text-center bg-light">
+                                    <a asp-action="RentNow" asp-controller="Locker" title="Rent Now" class="btn btn-success btn-rounded btn-xs">
+                                        Rent Now
+                                    </a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                sn++;
+            }
+        </tbody>
+    </table>
+</div>

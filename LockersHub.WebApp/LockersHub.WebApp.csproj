@@ -6,6 +6,33 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\images\locker1.jpg" />
+    <Content Remove="wwwroot\images\locker10.jpg" />
+    <Content Remove="wwwroot\images\locker2.jpg" />
+    <Content Remove="wwwroot\images\locker3.jpg" />
+    <Content Remove="wwwroot\images\locker4.jpg" />
+    <Content Remove="wwwroot\images\locker5.jpg" />
+    <Content Remove="wwwroot\images\locker6.jpg" />
+    <Content Remove="wwwroot\images\locker7.jpg" />
+    <Content Remove="wwwroot\images\locker8.jpg" />
+    <Content Remove="wwwroot\images\locker9.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\locker1.jpg" />
+    <None Include="wwwroot\images\locker10.jpg" />
+    <None Include="wwwroot\images\locker2.jpg" />
+    <None Include="wwwroot\images\locker3.jpg" />
+    <None Include="wwwroot\images\locker4.jpg" />
+    <None Include="wwwroot\images\locker5.jpg" />
+    <None Include="wwwroot\images\locker6.jpg" />
+    <None Include="wwwroot\images\locker7.jpg" />
+    <None Include="wwwroot\images\locker8.jpg" />
+    <None Include="wwwroot\images\locker9.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.9" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.9" />
   </ItemGroup>
 

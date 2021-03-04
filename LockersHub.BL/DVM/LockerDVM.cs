@@ -17,10 +17,14 @@ namespace LockersHub.BL.DVM
         public decimal Price { get; set; }
         [StringLength(350)]
         public string Description { get; set; }
+        [StringLength(50)]
+        public string Size { get; set; }
         public int? QuantityAvailable { get; set; }
         [StringLength(4)]
         public string StateCode { get; set; }
         public int? CityId { get; set; }
+        [StringLength(150)]
+        public string ImageUrl { get; set; }
         [StringLength(15)]
         public string Status { get; set; }
         [StringLength(450)]
