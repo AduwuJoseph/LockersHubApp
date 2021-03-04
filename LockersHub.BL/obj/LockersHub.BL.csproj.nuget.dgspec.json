@@ -49,7 +49,7 @@
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.1.1, )"
             },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",

@@ -4,6 +4,7 @@
 $('.select2').select2();
 
 function showResult(str) {
+
     if (str.length == 0) {
         document.getElementById("livesearch").innerHTML = "";
         document.getElementById("livesearch").style.border = "0px";
@@ -16,6 +17,20 @@ function showResult(str) {
             document.getElementById("livesearch").style.border = "1px solid #A5ACB2";
         }
     }
-    xmlhttp.open("GET", "api/Lockers/SearchlockerByCityOrState?id=" + str, true);
+    var url = "https://lockershub.azurewebsites.net/api/Lockers/";
+    xmlhttp.open("GET", url + "SearchlockerByCityOrState2?id=" + str , true);
     xmlhttp.send();
+    Load("/locker/GetLockersBySearch?apiUrl=" + url+ "SearchlockerByCityOrState/id=" + str);
+}
+
+$(document).on('click', '[data-toggle="tab"]', function (event) {
+    event.preventDefault();
+    var url = $(this).data('url');
+    Load(url);
+});
+
+function Load(url) {
+    //alert(url);
+    $('#home').load(url, function () {
+    });
 }

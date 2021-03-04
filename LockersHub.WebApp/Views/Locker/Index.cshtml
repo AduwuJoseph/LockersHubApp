@@ -47,3 +47,23 @@
         </div>
     </div>
 </section>
+<script>
+    $(document).ready(function () {
+
+        var url = "https://lockershub.azurewebsites.net/api/Lockers/GetAllLockers";
+        Load("/locker/GetLockersBySearch?apiUrl=" + url);
+    });
+    $(function () {
+
+        $("#Name,#SurName").keyup(function (e) {
+            var n = $("#Name").val();
+            var sn = $("#SurName").val();
+            $.get("/locker/Index?Name=" + n + "&SurName=" + sn, function (r) {
+                //update ui with results
+                $("#resultsTable").html(r);
+            });
+
+        });
+
+    });
+</script>
