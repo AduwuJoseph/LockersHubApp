@@ -2,13 +2,14 @@
 <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="container text-center text-md-left" data-aos="fade-up" id="searchL">
         <h1>Find a <span>Locker</span></h1>
-        <div class="row col-md-6 search-locker">
-            <form action="" method="post">
-                <div class="form-group">
-                    <input type="text" name="txtSearch" id="txtSearch" placeholder="Enter City or State" class="form-control" size="50"><input type="submit" value="Find Locker"><br />
-                    <div id="livesearch"></div>
+        <div class="row col-md-6">
+            <form action="" autocomplete="off">
+                <div class="autocomplete" style="width:300px;">
+                    <input type="text" id="txtSearch" onkeyup="showResult(this.value);" placeholder="Enter City or State" class="form-control" size="50">
                 </div>
+                <input type="submit" value="Find Locker">
             </form>
+            <div class="php-email-form" id="livesearch"></div>
         </div>
     </div>
 </section><!-- End Hero -->

@@ -24,6 +24,11 @@ namespace LockersHub.WebApp.Controllers
             return View();
         }
 
+        public IActionResult RentNow()
+        {
+            return View();
+        }
+
         // GET: Lockers
         public async Task<ActionResult> GetAllLockers(string apiUrl)
         {
@@ -71,6 +76,27 @@ namespace LockersHub.WebApp.Controllers
             }
             return PartialView("_SearchResult", table);
 
+        }
+
+        // GET: Lockers
+        public async Task<List<string>> GetLockersBySearch2(string apiUrl)
+       {
+            List<string> table = null;
+            using (HttpClient client = new HttpClient())
+            {
+                client.BaseAddress = new Uri(apiUrl);
+                client.DefaultRequestHeaders.Accept.Clear();
+                client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
+
+                HttpResponseMessage response = await client.GetAsync(apiUrl);
+                if (response.IsSuccessStatusCode)
+                {
+                    var data = await response.Content.ReadAsStringAsync();
+                    table = Newtonsoft.Json.JsonConvert.DeserializeObject<List<string>>(data);
+                }
+
+            }
+            return table;
         }
 
         public IActionResult Privacy()
